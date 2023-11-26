@@ -1,0 +1,38 @@
+[
+    {
+        "_id": "6485e091faefba23adcfbaf4",
+        "content": [
+
+            {
+                "id": "655dd5f1d49d5ac0db78a1c4",
+                "name": "pop",
+                "img": "pop",
+                "information": {
+                    "strength": "12",
+                    "lives": "12"
+                },
+                "text": "yes"
+            },
+            {
+                "_id": "655dd65e83fa585427c4e6d9",
+                "name": "pop",
+                "img": "pop",
+                "information": {
+                    "strength": "12",
+                    "lives": "12"
+                },
+                "text": "yes"
+            },
+            {
+                "_id": "655dda12f73d6522566420ff",
+                "name": "Sylvia",
+                "img": "sylvia.png",
+                "information": {
+                    "strength": "56",
+                    "lives": "56"
+                },
+                "text": "is harmfull"
+            }
+        ]
+    }
+]
